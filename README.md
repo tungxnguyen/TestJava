@@ -20,6 +20,6 @@
     <li><h4>Tiến độ</h4>
       <p>Chưa thể hoàn thành hết các mục của bài test,nếu có thêm thời gian sẽ có thể hoàn thành được</p>
       
-    </li>
+  
 </ol>
     
