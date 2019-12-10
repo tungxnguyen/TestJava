@@ -19,7 +19,7 @@
     </li>
     <li><h4>Tiến độ</h4>
       <p>Chưa thể hoàn thành hết các mục của bài test,nếu có thêm thời gian sẽ có thể hoàn thành được</p>
-      
+      <p>Trong sorce code của bài 1, không upload lên được thư mục vendor và file :".env",vì vậy a/chị copy qua và cấu hình lại file .env giúp em ạ.Tên Database để cấu hình .env :testjava</p>
   
 </ol>
     
